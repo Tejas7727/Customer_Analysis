@@ -19,3 +19,4 @@
 
 ## Note
 - Just in case you do dot use jupyter notebook, refer to HTML folders to access all the notebooks in HTML format.
+- While running notebooks, keep data files and ipnyb files in same folder.
